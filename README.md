@@ -1,5 +1,6 @@
 ### Multilevel and Hierarchical Models
-This repository contains 2 case studys of Multilevel and Hierarchical Models in terms of Frequentist and Bayesian Statistics, please unzip data folder and change the directory while loading data
+This repository contains 2 case studys of Multilevel and Hierarchical Models in terms of Frequentist and Bayesian Statistics. \
+Please unzip data folder and change the directory while loading data
 ### Case Study1
 A film production company wants to know what makes for a successful movie. They have collected box office information about films which released in the US in 2019 as well as some variables they suspect are predictive of box office success. In particular, they wish to know whether a film’s budget and critical score are predictive of it’s net profits.
 
